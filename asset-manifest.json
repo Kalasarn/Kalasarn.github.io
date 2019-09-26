@@ -1,14 +1,20 @@
 {
-  "main.css": "/static/css/main.8db28e00.chunk.css",
-  "main.js": "/static/js/main.48f1be2e.chunk.js",
-  "main.js.map": "/static/js/main.48f1be2e.chunk.js.map",
-  "static/js/1.f6b30e84.chunk.js": "/static/js/1.f6b30e84.chunk.js",
-  "static/js/1.f6b30e84.chunk.js.map": "/static/js/1.f6b30e84.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/media/bg.jpeg": "/static/media/bg.0ee6d1fb.jpeg",
-  "static/css/main.8db28e00.chunk.css.map": "/static/css/main.8db28e00.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.2610945587dcce0038e70439971ea4d5.js": "/precache-manifest.2610945587dcce0038e70439971ea4d5.js",
-  "service-worker.js": "/service-worker.js"
+  "files": {
+    "main.css": "/Kalasarn.github.io/static/css/main.e12af9f2.chunk.css",
+    "main.js": "/Kalasarn.github.io/static/js/main.738380a8.chunk.js",
+    "main.js.map": "/Kalasarn.github.io/static/js/main.738380a8.chunk.js.map",
+    "runtime-main.js": "/Kalasarn.github.io/static/js/runtime-main.77c3b71d.js",
+    "runtime-main.js.map": "/Kalasarn.github.io/static/js/runtime-main.77c3b71d.js.map",
+    "static/js/2.c137de4c.chunk.js": "/Kalasarn.github.io/static/js/2.c137de4c.chunk.js",
+    "static/js/2.c137de4c.chunk.js.map": "/Kalasarn.github.io/static/js/2.c137de4c.chunk.js.map",
+    "index.html": "/Kalasarn.github.io/index.html",
+    "precache-manifest.1cdaa04e40858cfe847d96bde5721ed9.js": "/Kalasarn.github.io/precache-manifest.1cdaa04e40858cfe847d96bde5721ed9.js",
+    "service-worker.js": "/Kalasarn.github.io/service-worker.js",
+    "static/css/main.e12af9f2.chunk.css.map": "/Kalasarn.github.io/static/css/main.e12af9f2.chunk.css.map",
+    "static/media/WeatherApp.css": "/Kalasarn.github.io/static/media/backgroundimage.8bfb3bba.jpg",
+    "static/media/LandingPage.css": "/Kalasarn.github.io/static/media/bg.0ee6d1fb.jpeg",
+    "static/media/drops.png": "/Kalasarn.github.io/static/media/drops.4fc408f5.png",
+    "static/media/snowflake.png": "/Kalasarn.github.io/static/media/snowflake.91ee7d0a.png",
+    "static/media/sunny.png": "/Kalasarn.github.io/static/media/sunny.bcb3306a.png"
+  }
 }
