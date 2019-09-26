@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "09395f1874f4f09eda17d73f0e28d36e",
+    "revision": "8372843758f316fd58593a3cd507d8e3",
     "url": "/Kalasarn.github.io/index.html"
   },
   {
-    "revision": "7fe40f36a4643214aa09",
+    "revision": "396d16310286e694e15d",
     "url": "/Kalasarn.github.io/static/css/main.e12af9f2.chunk.css"
   },
   {
-    "revision": "a138ca4b195fea5e57db",
-    "url": "/Kalasarn.github.io/static/js/2.9d296fa1.chunk.js"
+    "revision": "5282929735aac76b5b72",
+    "url": "/Kalasarn.github.io/static/js/2.c137de4c.chunk.js"
   },
   {
-    "revision": "7fe40f36a4643214aa09",
-    "url": "/Kalasarn.github.io/static/js/main.44dbdc12.chunk.js"
+    "revision": "396d16310286e694e15d",
+    "url": "/Kalasarn.github.io/static/js/main.fb080eba.chunk.js"
   },
   {
     "revision": "3e6dbeba4df897248b92",
